@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shanice Lanier
+- 👋 Hi, I’m @ShaniceDLanier
 - 👀 I’m interested in learning how to use all of github features.
 - 🌱 I’m currently learning to code in languages like Python, Java, C++
 - 💞️ I’m looking to collaborate on several projects.
